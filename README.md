@@ -4,6 +4,6 @@ This repository contains all the work done for the IBM Data Science Specializati
 
 ## Each module contains:
 
-Jupyter Notebooks: Jupyter notebooks contain the code and explanations for each task in the module.
+*Jupyter Notebooks:* Jupyter notebooks contain the code and explanations for each task in the module.
 Datasets: The datasets used in the module tasks.
 Reports: Reports that summarize the results of the module tasks.
